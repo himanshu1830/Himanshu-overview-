@@ -1,6 +1,6 @@
 # Himanshu-overview-
 
-Hi there 👋🏻
+Hi there, im_himanshu 👋🏻
 
 
 Data Scientist Hardworking Seeking employment . Bringing forth a motivated attitude and a variety of powerful skills. Adept in various social media platform and oﬃce technology programs . committed to utilizing my skills to further the mission of a company
