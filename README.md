@@ -17,5 +17,9 @@ Libraries & Tools: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplot
 Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
 
 How to Reach Me : www.linkedin.com/in/himanshu-kumar-1a03a8182
+
 MObile no :      8851985656
+
 Email id :       himanshugbpit@gmail.com
+
+Tableau : https://public.tableau.com/app/profile/himanshu.kumar1020
