@@ -3,7 +3,7 @@
 Hi there, im_himanshu 👋🏻
 
 
-Data Scientist Hardworking Seeking employment . Bringing forth a motivated attitude and a variety of powerful skills. Adept in various social media platform and oﬃce technology programs . committed to utilizing my skills to further the mission of a company
+I am a Data Science enthusiast with trustworthy skills of problem-solving. I have done my B.VOC from Guru Gobind Singh Indraprastha University and 9 months of experience as a Process Leader in the mechanical department and looking for a transition in the Data Scientist | Data Analyst Role with intrigued in analyzing raw data and statistics bring efficient knowledge of Data analysis and experience on building a machine learning model
 
 
 Things I'm good at 🔥
